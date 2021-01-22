@@ -23,7 +23,7 @@
                 <!-- Deja un compte -->
             <p class="forgot-password text-right">
                 Deja un compte
-            <router-link to="{name : 'login'}">se onnecter?</router-link>
+            <router-link to="{name : 'login'}">se onnecter ?</router-link>
             </p>
         </form>
     </div>
