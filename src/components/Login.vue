@@ -10,7 +10,7 @@
             </div>
                 <!-- Password -->
             <div class="form-group">
-                <label>Password</label>
+                <label>Mot de passe</label>
                 <input type="password" class="form-control form-control-lg" />
             </div>
                 <!-- Boutton Valider -->
