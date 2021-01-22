@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/Home.vue'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
@@ -25,6 +24,7 @@ const routes = [
     component: () => import('../components/ForgotPassword.vue')
   }
 ]
+
 
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
